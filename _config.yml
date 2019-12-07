@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'My Interesting Nagging'
-description: ''
+description: '真実はいつも一つ'
 keywords: 'security'
 url: 'https://Earthwater.github.io' # your host
 
@@ -24,21 +24,7 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
-SNS-icon: ['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:805896731@qq.com'
-  weixin: ''
-  qq: 'http://wpa.qq.com/msgrd?v=3&uin='805896731'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: 'https://github.com/Earthwater'
-  Codepen: ''
-  weibo: ''
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+SNS-icon: [Facebook, weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
 
 # 分页
 paginate: 5
