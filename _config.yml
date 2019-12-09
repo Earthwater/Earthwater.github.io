@@ -13,11 +13,11 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 author: true
 name: 'Earthwater/Tendoyo'
-NickName: '-'
-webtitle: '-'
-bio: '-'
+NickName: 'Tendoyo'
+webtitle: 'My Interesting Nagging'
+bio: 'Two sayings about deceit are best:<br>(1)lie involving half Truth is the most spiteful <br>(2)Real Truth always has a mask of lie'
 about: true
-aboutyou: '-'
+aboutyou: 'Phd candidate in FuDan Univ.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
