@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hello Tendoyo'
-date: 2020-01-10
+date:   2020-01-10 10:32:11 +0800
 author: Lee
 color: rgb(255,210,32)
 cover: '../assets/yzb_you.jpeg'

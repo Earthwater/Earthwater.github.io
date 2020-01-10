@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some thinkings of differences between cryptography and system security"
-date:   2018-05-17 14:05:21 +0800
+date:   2020-01-10 14:59:21 +0800
 tags: blogs
 color: rgb(255,90,90)
 cover: '../assets/test.png'
