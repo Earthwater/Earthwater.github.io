@@ -21,4 +21,5 @@ would be grateful to yourself.
 
 ### California Hotel
 BTW, here is my most favourite song -- California Hotel
-<iframe src="//player.bilibili.com/player.html?aid=2284228&cid=3561252&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=2284228&cid=3561252&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100% height=100% > </iframe>
