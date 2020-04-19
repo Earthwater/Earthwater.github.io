@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "回顾"
+date:   2020-04-19 13:25:21 +0800
+tags: blogs
+color: rgb(255,90,90)
+cover: '../assets/reviews.jpg'
+subtitle: '回顾以往，有所感触'
+---
+
 ## 回顾
 
 ### 本科生涯
